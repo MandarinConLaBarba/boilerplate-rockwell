@@ -25,11 +25,11 @@
     },
     paths: {
                 "jquery" : "vendor/jquery/jquery.min",
-                "backbone" : "vendor/backbone-amd/backbone-min",
+                "backbone" : "vendor/backbone-amd/backbone",
                 "mocha" : "vendor/mocha/mocha",
                 "expect" : "vendor/expect/expect",
                 "sinon" : "vendor/sinon/sinon",
-                "underscore" : "vendor/underscore-amd/underscore-min",
+                "underscore" : "vendor/underscore-amd/underscore",
                 "text" : "vendor/requirejs-plugins/text"
             }
 })
