@@ -30,6 +30,6 @@
                 "expect" : "vendor/expect/expect",
                 "sinon" : "vendor/sinon/sinon",
                 "underscore" : "vendor/underscore-amd/underscore",
-                "text" : "vendor/requirejs-plugins/text"
+                "text" : "vendor/requirejs-text/text"
             }
 })
