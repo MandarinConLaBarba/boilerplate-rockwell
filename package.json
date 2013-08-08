@@ -1,8 +1,10 @@
 {
-    "name": "boilerplate-basic",
+    "name": "boilerplate-rockwell",
     "private" : true,
     "version": "0.0.0",
-    "dependencies": {},
+    "dependencies": {
+        "express" : "~3.3.4"
+    },
     "devDependencies" : {
         "requirejs": "~2.1.8"
     }
