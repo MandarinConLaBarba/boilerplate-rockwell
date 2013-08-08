@@ -20,8 +20,9 @@ npm install -g bower
 ###Installation
 
 ```
-git clone https://github.com/MandarinConLaBarba/boilerplate-rockwell.git
-cd boilerplate-rockwell
+wget https://github.com/MandarinConLaBarba/boilerplate-rockwell/archive/master.zip -O rockwell.zip
+unzip rockwell.zip
+cd boilerplate-rockwell-master
 make
 node app.js
 ```
