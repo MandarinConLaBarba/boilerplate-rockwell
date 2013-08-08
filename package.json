@@ -1,0 +1,9 @@
+{
+    "name": "boilerplate-basic",
+    "private" : true,
+    "version": "0.0.0",
+    "dependencies": {},
+    "devDependencies" : {
+        "requirejs": "~2.1.8"
+    }
+}

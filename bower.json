@@ -1,0 +1,13 @@
+{
+  "name": "basic-boilerplate",
+  "version": "0.0.0",
+  "private" : true,
+  "dependencies": {
+    "backbone-amd": "~0.9.10",
+    "underscore-amd": "*",
+    "jquery": "*",
+    "requirejs": "*",
+    "mocha": "~1.12.0",
+    "expect": "~0.2.0"
+  }
+}

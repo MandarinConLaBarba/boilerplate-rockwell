@@ -1,0 +1,4 @@
+node_modules
+.idea
+public/scripts/vendor
+public/scripts/app/main.built.js
